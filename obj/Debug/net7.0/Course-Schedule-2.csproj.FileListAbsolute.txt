@@ -1,0 +1,15 @@
+C:\Users\adiaz\Documents\Proyectos\Course-Schedule-2\bin\Debug\net7.0\Course-Schedule-2.exe
+C:\Users\adiaz\Documents\Proyectos\Course-Schedule-2\bin\Debug\net7.0\Course-Schedule-2.deps.json
+C:\Users\adiaz\Documents\Proyectos\Course-Schedule-2\bin\Debug\net7.0\Course-Schedule-2.runtimeconfig.json
+C:\Users\adiaz\Documents\Proyectos\Course-Schedule-2\bin\Debug\net7.0\Course-Schedule-2.dll
+C:\Users\adiaz\Documents\Proyectos\Course-Schedule-2\bin\Debug\net7.0\Course-Schedule-2.pdb
+C:\Users\adiaz\Documents\Proyectos\Course-Schedule-2\obj\Debug\net7.0\Course-Schedule-2.csproj.AssemblyReference.cache
+C:\Users\adiaz\Documents\Proyectos\Course-Schedule-2\obj\Debug\net7.0\Course-Schedule-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adiaz\Documents\Proyectos\Course-Schedule-2\obj\Debug\net7.0\Course-Schedule-2.AssemblyInfoInputs.cache
+C:\Users\adiaz\Documents\Proyectos\Course-Schedule-2\obj\Debug\net7.0\Course-Schedule-2.AssemblyInfo.cs
+C:\Users\adiaz\Documents\Proyectos\Course-Schedule-2\obj\Debug\net7.0\Course-Schedule-2.csproj.CoreCompileInputs.cache
+C:\Users\adiaz\Documents\Proyectos\Course-Schedule-2\obj\Debug\net7.0\Course-Schedule-2.dll
+C:\Users\adiaz\Documents\Proyectos\Course-Schedule-2\obj\Debug\net7.0\refint\Course-Schedule-2.dll
+C:\Users\adiaz\Documents\Proyectos\Course-Schedule-2\obj\Debug\net7.0\Course-Schedule-2.pdb
+C:\Users\adiaz\Documents\Proyectos\Course-Schedule-2\obj\Debug\net7.0\Course-Schedule-2.genruntimeconfig.cache
+C:\Users\adiaz\Documents\Proyectos\Course-Schedule-2\obj\Debug\net7.0\ref\Course-Schedule-2.dll
